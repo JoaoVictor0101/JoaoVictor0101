@@ -2,7 +2,7 @@
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictor0101&show_icons=true&theme=dracula)
 
-### Tecnologias que uso atualmente:
+### Tecnologias que estou utilizando atualmente:
 
 <div style=" display: inline_block">
 <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
